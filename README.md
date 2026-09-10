@@ -4,3 +4,4 @@ I love learning git!
 
 But sometimes it's frustrating.
 ok i get it now
+hi
