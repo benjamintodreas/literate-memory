@@ -3,5 +3,4 @@
 I love learning git!
 
 But sometimes it's frustrating.
-
-PARTNER SIMULATION
+ok i get it now
